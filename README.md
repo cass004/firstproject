@@ -1,3 +1,3 @@
 # firstproject
-first github session
-first read me file
+first github session.
+
